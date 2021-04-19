@@ -1,0 +1,17 @@
+body{
+	background: url(bg16.jpg) no-repeat center;
+}
+h1{
+	color:green;
+	font-size:25px;
+	text-align:center;
+}
+h2{
+	color:green;
+	font-size:25px;
+	text-align:center;
+}
+p{
+	color:black;
+	font-size:15px;
+}
